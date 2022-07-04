@@ -2,10 +2,10 @@
 
 My self-learning in Artificial Intelligence (Machine Learning and Deep Learning) field, including following:
 
-[Machine Learning_Coursera](Machine Learning_Coursera\Machine Learning_Coursera.md)
+[Coursera: Machine Learning](Machine_Learning_Coursera\README.md)
 
-[Deep Learning Specialization_Coursera](Deep Learning Specialization_Coursera\Deep Learning Specialization_Coursera.md)
+[Coursera: Deep Learning Specialization](Deep_Learning_Specialization_Coursera\README.md)
 
-[CS229 Machine Learning_Stanford](CS229 Machine Learning_Stanford\CS229 Machine Learning_Stanford.md)
+[Stanford: CS229 Machine Learning](CS229_Machine_Learning_Stanford\README.md)
 
-[CS231n Deep Learning for Computer Vision_Stanford](CS231n Deep Learning for Computer Vision_Stanford\CS231n Deep Learning for Computer Vision_Stanford.md)
+[Stanford: CS231n Deep Learning for Computer Vision](CS231n_Deep_Learning_for_Computer_Vision_Stanford\README.md)
