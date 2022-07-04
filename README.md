@@ -1,6 +1,6 @@
 # AI_Self-learning_Path
 
-My self-learning in Artificial Intelligence (Machine Learning and Deep Learning) field, including following:
+This project records my self-learning path in Artificial Intelligence (Machine Learning and Deep Learning) field, including following:
 
 [Coursera: Machine Learning](Machine_Learning_Coursera\README.md)
 
