@@ -1,4 +1,4 @@
-# AI_Self-learning_Path
+# AI_Self-learning_Path Overview
 
 This project records my self-learning path in Artificial Intelligence (Machine Learning and Deep Learning) field, including following:
 
@@ -9,3 +9,13 @@ This project records my self-learning path in Artificial Intelligence (Machine L
 [Stanford: CS229 Machine Learning](CS229_Machine_Learning_Stanford/README.md)
 
 [Stanford: CS231n Deep Learning for Computer Vision](CS231n_Deep_Learning_for_Computer_Vision_Stanford/README.md)
+
+---
+
+## Coursera: Machine Learning
+
+## Coursera: Deep Learning Specialization
+
+## Stanford: CS229 Machine Learning
+
+## Stanford: CS231n Deep Learning for Computer Vision
