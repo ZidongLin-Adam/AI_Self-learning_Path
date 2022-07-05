@@ -4,6 +4,7 @@
 
 16/June/2022 update - the original Machine Learning course has been replaced by [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
 
+
 ## Disclaimer
 
-For protecting the [Coursera Honor Code](https://www.coursera.support/s/article/209818863-Coursera-Honor-Code?language=en_US#-5), the original codes in zip has been encrypted. Only the empty one is accessible. Other codes are written by myself.
+For protecting the [Coursera Honor Code](https://www.coursera.support/s/article/209818863-Coursera-Honor-Code?language=en_US#-5), the original codes completed from courses has been encrypted by a zip. Only the empty ones are accessible. Other codes in projects or materials made by myself are accessible and free to use unless for commercial purposes.
